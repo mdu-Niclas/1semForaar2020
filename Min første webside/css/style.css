@@ -1,0 +1,39 @@
+/* her er et stylesheet */
+body{
+    color: black;
+    background-color:#c9c9c9;
+}
+
+header {
+    color: white;
+    background-color:black;
+    font-size: 42px;
+    /*width: 50%;*/
+    width: 800px;
+}
+
+p {
+    color:black;
+}
+
+h2 {
+    color:white;
+    background-color:black;
+    font-size: 42px;
+    /*Width: 50%;*/
+    width: 666px;
+}
+
+main{
+    color:black;
+}
+
+#fodbold1 {
+    width: 15%;
+    height: auto;
+}
+
+#fodbold {
+    width: 20%;
+    height:auto;
+}
